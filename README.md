@@ -1,6 +1,6 @@
 # Bug Bounty Tools Assistant
 
-An interactive CLI tool designed to assist bug bounty hunters and security testers with various commands and tools for Recon, Exploitation, and Miscellaneous tasks.
+An interactive CLI tool designed to assist bug bounty hunters with various commands and tools for Recon, Exploitation, and Miscellaneous tasks.
 
 ## Features
 - **Interactive Menu**: Navigate through categories like Recon, Exploitation, and Miscellaneous with ease.
